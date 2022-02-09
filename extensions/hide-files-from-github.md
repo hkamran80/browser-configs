@@ -1,3 +1,6 @@
+# [Hide Files from GitHub](https://github.com/sindresorhus/hide-files-on-github)
+
+```
 ^\.
 ^license
 ^cname$
@@ -17,3 +20,4 @@
 ^yuidoc\.json$
 ^stylelint-config\.json$
 ^humans\.txt$
+```
