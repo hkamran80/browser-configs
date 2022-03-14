@@ -2,3 +2,4 @@
 
 ### Disabled Features
 - `linkify-user-location`
+- `pr-branch-auto-delete`
