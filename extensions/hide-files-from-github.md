@@ -8,7 +8,7 @@
 ^(patents|authors|contributors|acknowledgments|backers)(\.|$)
 ^(issue|pull_request)_template\.md$
 ^(appveyor|circle|codecov)\.(yml|yaml)$
-^(yarn|Gemfile|Cargo|composer|Pipfile)\.lock$
+^(yarn|Gemfile|Cargo|composer|Pipfile|pubspec)\.lock$
 ^package-lock\.json$
 ^npm-shrinkwrap\.json$
 ^pnpm-lock\.yaml$
