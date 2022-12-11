@@ -19,5 +19,6 @@
 ^testem(\.[\w-]+)?\.(json|js)$
 ^yuidoc\.json$
 ^stylelint-config\.json$
-^humans\.txt$
+^humans\.txt
+^(.*).d.ts$
 ```
