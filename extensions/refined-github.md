@@ -3,3 +3,4 @@
 ### Disabled Features
 - `linkify-user-location`
 - `pr-branch-auto-delete`
+- `set-default-repositories-type-to-sources`
