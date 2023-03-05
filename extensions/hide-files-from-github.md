@@ -20,5 +20,5 @@
 ^yuidoc\.json$
 ^stylelint-config\.json$
 ^humans\.txt
-^(.*).d.ts$
+.d.ts$
 ```
